@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Arbutus+Slab&family=Calistoga&family=Inter&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: "Playfair Display", serif;
+}
+
